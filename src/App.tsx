@@ -1,9 +1,7 @@
-import "./App.css";
-
 function App() {
   return (
     <>
-      <main>Main</main>
+      <main className="flex justify-center max-w-[1280px] mx-auto my-0 p-8 text-center">Main</main>
     </>
   );
 }
